@@ -35,3 +35,26 @@ New to torrenting? See the [torrenting guide](/getting-started/torrenting) on ho
 :   A closed private BitTorrent tracker for anime
 
     Users can join this tracker through recruitments on [AnimeBytes](#animebytes).
+We are celebrating our 6 moth anniversary on 1 June open for signup till then and Global Freeleech Mode Activated
+
+YU-Scene Content Tracker for game, movie, tv & music releases with English subtitle.
+
+Tracker Name: YU-Scene Genre: Movie, TV & Music Sign Up Link: https://yu-scene.net/register
+
+Closing Time: 9/6/2025
+
+Stats:
+
+All Users 4772
+Active Users 4672
+Disabled Users 2
+Pruned Users 36
+Banned Users 7
+Users active today 430
+Users active this week 1158
+Users active this month 1733
+
+
+Seeders 40624
+Leechers 579
+Total 41203
